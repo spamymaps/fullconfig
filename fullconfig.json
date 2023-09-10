@@ -245,7 +245,9 @@
         "248": "Legendary_Gold",
         "249": "Epic",
         "250": "Epic",
-        "251": "Legendary_Gold"
+        "251": "Legendary_Gold",
+        "252": "Epic",
+        "253": "Legendary_Gold"
     },
     "hat": {
         "0": "Common",
@@ -587,7 +589,9 @@
         "345": "Legendary_Gold",
         "346": "Legendary_Gold",
         "347": "Legendary_Gold",
-        "348": "Legendary_Gold"
+        "348": "Legendary_Gold",
+        "349": "Legendary_Gold",
+        "350": "Legendary_Gold"
     },
     "golfers": {
         "0": "Common",
@@ -835,7 +839,9 @@
         "248": "Legendary_Gold",
         "249": "Epic",
         "250": "Epic",
-        "251": "Legendary_Gold"
+        "251": "Legendary_Gold",
+        "252": "Epic",
+        "253": "Legendary_Gold"
     },
     "hats": {
         "0": "Common",
@@ -1177,7 +1183,9 @@
         "345": "Legendary_Gold",
         "346": "Legendary_Gold",
         "347": "Legendary_Gold",
-        "348": "Legendary_Gold"
+        "348": "Legendary_Gold",
+        "349": "Legendary_Gold",
+        "350": "Legendary_Gold"
     },
     "packtypes": {
         "1": "classic",
